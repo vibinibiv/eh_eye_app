@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <string name="agora_app_id">1f5b45bd311c4a4a8070ec54cb14ff18</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token">0061f5b45bd311c4a4a8070ec54cb14ff18IAAQJI9AhTQbVzrH/bRJ0WjlX7SMY/JWkQGeZlQ2PEXcI+IVUyEAAAAAEAAn2yw6THUZYgEAAQBMdRli</string>
+</resources>
